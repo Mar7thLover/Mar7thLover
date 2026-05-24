@@ -3,9 +3,9 @@
 <img src="./assets/cyrene-starlit-banner.png" alt="Cyrene starlit banner" width="100%" />
 
 <h1>Cyrene</h1>
-<h3>Mar7thLover | Honkai: Star Rail Player | Vibe Coding Learner</h3>
+<h3>Mar7thLover · 星穹旅人 · Vibe Coding Learner</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=9D7CFF&center=true&vCenter=true&width=720&lines=Elegant+code%2C+ethereal+ideas%2C+bright+momentum.;Building+small+things+with+care+and+curiosity.;A+Trailblazer+learning+to+shape+worlds+through+code.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=9D7CFF&center=true&vCenter=true&width=720&lines=Elegant+code%2C+ethereal+ideas%2C+bright+momentum.;Building+small+worlds+with+care+and+curiosity.;A+Trailblazer+learning+to+shape+worlds+through+code.)](https://git.io/typing-svg)
 
 <br />
 
@@ -20,7 +20,8 @@
 
 ## About Me
 
-> 在星轨之间收集灵感，在代码里练习把想象变成可运行的世界。
+> 在星轨之间收集灵感，在代码里练习把想象变成可运行的世界。  
+> Between star rails and syntax — learning to shape small worlds that feel *right*.
 
 <table>
   <tr>
@@ -28,41 +29,41 @@
       <img src="https://avatars.githubusercontent.com/Mar7thLover" width="120" alt="Cyrene avatar" />
     </td>
     <td>
-      Hi, I'm <b>Cyrene</b>. I am a Honkai: Star Rail player and a coding learner polishing my craft step by step.
-      <br />
-      I like interfaces, interactive ideas, game worlds, and the quiet satisfaction of making something finally work.
+      Hi, I'm <b>Cyrene</b> — a Trailblazer both in-game and in code.
+      <br /><br />
+      I chase the quiet satisfaction of making things that feel right: clean interfaces, playful interactions, game-inspired worlds, and small ideas polished until they glow.
     </td>
   </tr>
 </table>
 
-- Trailblazer at heart, with a soft spot for beautiful systems and expressive experiences.
-- Mains: **三月七**, **遐蝶**, **风堇**, and **昔涟**.
-- Currently refining my coding taste through **Vibe Coding**, project practice, and **Unity basics**.
+- 在星穹铁道里是开拓者，在代码世界里是认真的学徒。
+- Mains: **三月七**, **遐蝶**, **风堇**, **昔涟** — each one a piece of aesthetic identity.
+- Currently refining my craft through **Vibe Coding**, project practice, and **Unity basics**.
 - I build around game-server experiments, tools, data sites, and small polished ideas.
-- I enjoy things that feel clean, lively, elegant, and just a little bit dreamy.
+- 喜欢干净、灵动、优雅，带一点点梦幻的东西。
 
 ---
 
-## Current Constellation
+## Current Constellation / 当前星图
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Learning Orbit</h3>
+      <h3>Learning Orbit · 学习轨道</h3>
       <ul>
-        <li><b>Vibe Coding</b>: turning ideas into fast, expressive prototypes.</li>
-        <li><b>Unity Basics</b>: scenes, components, interaction, and game logic.</li>
+        <li><b>Vibe Coding</b>: 把灵感变成能跑起来的东西。</li>
+        <li><b>Unity Basics</b>: scenes, components — 让世界动起来。</li>
         <li><b>Frontend Taste</b>: layout, motion, visual rhythm, and polish.</li>
         <li><b>Code Craft</b>: readable structure, small iterations, better habits.</li>
       </ul>
     </td>
     <td width="50%">
-      <h3>Creative Direction</h3>
+      <h3>Creative Direction · 创作方向</h3>
       <ul>
-        <li>Ethereal, elegant, pretty, energetic.</li>
+        <li>飘渺、优雅、明快、动人。</li>
         <li>Game-inspired UI and interactive storytelling.</li>
         <li>Small tools that feel smooth and intentional.</li>
-        <li>Projects with a little sparkle and a clear purpose.</li>
+        <li>带一点星光，有清晰目的的项目。</li>
       </ul>
     </td>
   </tr>
@@ -70,7 +71,7 @@
 
 ---
 
-## Character Mains
+## Character Mains / 编队
 
 <div align="center">
 
@@ -83,13 +84,13 @@
 
 ---
 
-## Featured Repositories
+## Featured Repositories / 代表项目
 
 <table>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/Mar7thLover/CastoricePS">CastoricePS</a></h3>
-      <p>A re-implementation of a game server with stars and rails.</p>
+      <p>A re-implementation of a game server — stars, rails, and low-level craft.</p>
       <p>
         <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white" alt="Zig" />
         <img src="https://img.shields.io/badge/Stars-43-9D7CFF?style=flat-square" alt="Stars" />
@@ -97,7 +98,7 @@
     </td>
     <td width="50%">
       <h3><a href="https://github.com/Mar7thLover/March7thHoney-Public">March7thHoney-Public</a></h3>
-      <p>A March 7th themed public project with a bright trailblazer spirit.</p>
+      <p>A March 7th themed project — bright spirit, trailblazer energy.</p>
       <p>
         <img src="https://img.shields.io/badge/Stars-38-8EC5FC?style=flat-square" alt="Stars" />
       </p>
@@ -106,7 +107,7 @@
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/Mar7thLover/HyacineDH-Core">HyacineDH-Core</a></h3>
-      <p>C# server work, tuned through practice and curiosity.</p>
+      <p>C# server work, shaped through practice and quiet curiosity.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp" />
         <img src="https://img.shields.io/badge/Stars-28-E0C3FC?style=flat-square" alt="Stars" />
@@ -125,7 +126,7 @@
 
 ---
 
-## Tech Garden
+## Tech Garden / 技术花园
 
 <div align="center">
 
@@ -160,15 +161,15 @@
 
 ---
 
-## Next Quests
+## Next Quests / 下一站
 
 ```txt
-01. Build more tiny, polished projects.
-02. Practice Unity by making playable scenes.
-03. Improve code readability and structure.
-04. Keep learning with curiosity, taste, and momentum.
+01. 打磨更多小而精的项目 · Build small, polished things.
+02. 用 Unity 做出可以玩的场景 · Make playable scenes, not just working ones.
+03. 写让未来的自己也能读懂的代码 · Code with clarity and care.
+04. 带着好奇心和审美，继续往前走 · Stay curious, stay tasteful, keep moving.
 ```
 
 <div align="center">
-  <sub>May every small commit become a brighter star.</sub>
+  <sub>每一次小小的 commit，都是更亮的一颗星。</sub>
 </div>
